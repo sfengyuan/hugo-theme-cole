@@ -1,0 +1,3 @@
+# Cole
+
+A hugo theme.
