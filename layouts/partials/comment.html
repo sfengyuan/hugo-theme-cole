@@ -11,7 +11,7 @@
         if (window.location.hostname == "localhost") {
             return
         }
-        document.querySelector('.local-info').classList.add('hide')
+        document.querySelector('.local-info').style.display = "none"
 
         let dsq = document.createElement('script')
         dsq.type = 'text/javascript'
