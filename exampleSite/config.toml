@@ -1,0 +1,36 @@
+theme = "hugo-theme-cole"
+title = "You title"
+baseurl = "https://your url.com/"
+
+buildDrafts = "true"
+AuthorName = "John"
+
+languageCode = "en"
+defaultContentLanguage = "en"
+hasCJKLanguage = true
+
+paginate = 5
+summaryLength = 100
+enableEmoji = true
+disableFastRender = true
+
+disqusShortname = "---"
+googleAnalytics = "---"
+
+[plugin]
+[params]
+    customCss = []
+    footer = "<a href=\"https://github.com/jacobsun/hugo-theme-cole\">cole</a>"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "Tool"
+    url = "/tool"
+    weight = 20
+[[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 10
