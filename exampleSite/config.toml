@@ -2,7 +2,7 @@ theme = "hugo-theme-cole"
 title = "You title"
 baseurl = "https://your url.com/"
 
-buildDrafts = "true"
+buildDrafts = "false"
 AuthorName = "John"
 
 languageCode = "en"
@@ -14,8 +14,8 @@ summaryLength = 100
 enableEmoji = true
 disableFastRender = true
 
-disqusShortname = "---"
-googleAnalytics = "---"
+disqusShortname = "your disqus short name"
+googleAnalytics = "GA ID"
 
 [plugin]
 [params]
@@ -26,11 +26,3 @@ googleAnalytics = "---"
     name = "Home"
     url = "/"
     weight = 1
-[[menu.main]]
-    name = "Tool"
-    url = "/tool"
-    weight = 20
-[[menu.main]]
-    name = "About"
-    url = "/about"
-    weight = 10

@@ -4,11 +4,11 @@
 name = "hugo-theme-cole"
 license = "MIT"
 licenselink = "https://github.com/jacobsun/hugo-theme-cole/blob/master/LICENSE"
-description = "a hugo theme"
+description = "a minimal hugo theme, simply list contents."
 homepage = "https://github.com/jacobsun/hugo-theme-cole"
-tags = ["blog"]
-features = ["personal", "minimal","light", "simple"]
-min_version = 0.5
+tags = ["minimal", "light", "simple"]
+features = ["disqus", "syntax highlighting"]
+min_version = 0.40
 
 [author]
   name = "Jacob Sun"
