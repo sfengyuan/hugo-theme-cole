@@ -20,7 +20,7 @@ googleAnalytics = "GA ID"
 [plugin]
 [params]
     customCss = []
-    footer = "<a href=\"https://github.com/jacobsun/hugo-theme-cole\">cole</a>"
+    footer = "<a href=\"https://github.com/sfengyuan/hugo-theme-cole\">cole</a>"
 
 [[menu.main]]
     name = "Home"
