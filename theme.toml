@@ -3,13 +3,13 @@
 
 name = "hugo-theme-cole"
 license = "MIT"
-licenselink = "https://github.com/jacobsun/hugo-theme-cole/blob/master/LICENSE"
+licenselink = "https://github.com/sfengyuan/hugo-theme-cole/blob/master/LICENSE"
 description = "a minimal hugo theme, simply list contents."
-homepage = "https://github.com/jacobsun/hugo-theme-cole"
+homepage = "https://github.com/sfengyuan/hugo-theme-cole"
 tags = ["minimal", "light", "simple"]
 features = ["disqus", "syntax highlighting"]
 min_version = 0.40
 
 [author]
-  name = "Jacob Sun"
-  homepage = "https://ziox.xyz/"
+  name = "sunfy"
+  homepage = "https://sunfy.xyz/"
