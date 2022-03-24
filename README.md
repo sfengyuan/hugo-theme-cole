@@ -4,7 +4,7 @@
 ![screenshot](https://raw.githubusercontent.com/sfengyuan/hugo-theme-cole/master/images/screenshot.png)
 
 
-[https://sunfy.xyz](https://sunfy.xyz)
+[https://sfengyuan.github.io](https://sfengyuan.github.io)
 
 # Installation
 Inside the folder of your Hugo site run:
